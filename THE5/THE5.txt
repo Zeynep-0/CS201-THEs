@@ -1,0 +1,6 @@
+In this homework, you will explore object-oriented programming by implementing a C++
+program designed to manage a collection of books. This task involves creating and manipulating
+objects, handling user input, and displaying information. Your task is to develop a C++ program 
+that allows users to add new books, display all books, and search for books by title stored in 
+a designated vector. You will use your knowledge of classes, vectors, and function 
+implementation to achieve accurate results.
