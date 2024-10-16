@@ -1,0 +1,7 @@
+In this homework, you will explore data handling and analysis by implementing a
+C++ program designed to process and analyze weather data. This task involves
+reading, parsing, and performing various statistical computations on weather data
+from a file. Your proficiency with vectors, file streams, string manipulations, and
+basic data analytics in C++ will be tested. You will use your knowledge
+of file handling, data structures, and function implementation to achieve accurate
+results.
