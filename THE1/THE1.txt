@@ -1,0 +1,9 @@
+Your task is to develop a C++ program that calculates the required boiling time and
+adjusted boiling point for three distinct magical potions. Each potion has unique
+ingredients that affect the boiling point and volume of the potion mixture. Your 
+program will guide the user through the process of brewing one of three
+potions: the Potion of Invisibility, the Calming Draught, or the Strengthening
+Solution. Each potion requires a specific combination of magical ingredients that
+alter the potion's boiling point. Additionally, you must calculate the boiling time
+required to evaporate the potion mixture to a desired final volume, ensuring the
+potion's efficacy.
