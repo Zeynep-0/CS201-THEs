@@ -1,0 +1,7 @@
+In this homework, you will delve into a comprehensive C++ program designed to
+calculate and compare the costs associated with traveling by various types of
+transportation. This comparison includes two types of cars, a bus, and a train. The
+program considers several factors like distance, gas prices, the number of
+passengers, booking time, and whether the trip occurs on a weekend. The objective
+is to identify the most cost-effective transportation method based on the given
+criteria.
